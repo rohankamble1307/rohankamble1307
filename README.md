@@ -1,16 +1,43 @@
 ## Hi there 👋
 
-<!--
-**rohankamble1307/rohankamble1307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋  
 
-Here are some ideas to get you started:
+I'm **Rohan Kamble**, an undergraduate student specializing in  
+**Artificial Intelligence & Machine Learning** 🎓  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy solving problems and building things that actually work.  
+If an idea excites me, I try to turn it into code 🚀  
+
+---
+
+## 🧠 What I’m Working On
+- Data Structures & Algorithms (C++)
+- Machine Learning & AI fundamentals
+- Python-based projects
+- Exploring backend & real-world systems  
+
+---
+
+## 🛠 Tech Stack
+- **Languages:** HTML, CSS, Java Sript, C++, Python, JavaScript  
+- **Core Areas:** DSA, Machine Learning, AI  
+- **Tools:** Git, GitHub, VS Code, Jubyter Notebook, Google Colab etc. 
+
+---
+
+## 📌 Projects
+- 🎵 **Spotify Clone** – Frontend project using HTML & CSS  
+- 🐍 **Snake Game** – JavaScript-based game project  
+- 🤖 More AIML & DSA projects coming soon...  
+
+---
+
+## 🎯 Goals
+- Strengthen problem-solving skills  
+- Build impactful real-world projects  
+- Prepare for internships & placements  
+
+---
+
+📫 Feel free to explore my repositories and connect!
+
