@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi there 👋  
+## Hi there 👋  
 
 I'm **Rohan Kamble**, an undergraduate student specializing in  
 **Artificial Intelligence & Machine Learning** 🎓  
