@@ -19,7 +19,7 @@ If an idea excites me, I try to turn it into code 🚀
 ## 🛠 Tech Stack
 - **Languages:** HTML, CSS, Java Sript, C++, Python, JavaScript  
 - **Core Areas:** DSA, Machine Learning, AI  
-- **Tools:** Git, GitHub, VS Code, Jubyter Notebook, Google Colab etc. 
+- **Tools:** Git, GitHub, VS Code, Jupyter Notebook, Google Colab etc. 
 
 ---
 
