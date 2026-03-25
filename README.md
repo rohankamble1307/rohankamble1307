@@ -24,10 +24,14 @@ If an idea excites me, I try to turn it into code 🚀
 ---
 
 ## 📌 Projects
-- 🎵 **Spotify Clone** – Frontend project using HTML & CSS  
-- 🐍 **Snake Game** – JavaScript-based game project  
-- 🤖 More AIML & DSA projects coming soon...  
+- 📰 **Fake News Detection (NLP)**  
+  Built using TF-IDF and Passive Aggressive Classifier achieving ~99% accuracy  
+- 💳 **Credit Card Fraud Detection**  
+  Developed a machine learning model to identify fraudulent transactions  
+- 🏠 **House Price Prediction**  
+  Implemented regression techniques to estimate housing prices  
 
+- 🚀 More AIML & real-world projects coming soon...
 ---
 
 ## 🎯 Goals
