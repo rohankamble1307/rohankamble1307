@@ -1,7 +1,7 @@
 ## Hi there 👋  
 
 I'm **Rohan Kamble**, an undergraduate student specializing in  
-**Artificial Intelligence & Machine Learning** 🎓  
+**Artificial Intelligence & Machine Learning** 🎓
 
 I enjoy solving problems and building things that actually work.  
 If an idea excites me, I try to turn it into code 🚀  
