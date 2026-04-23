@@ -1,10 +1,11 @@
-## Hi there 👋  
+## 🚀 About Me
 
-I'm **Rohan Kamble**, an undergraduate student specializing in  
-**Artificial Intelligence & Machine Learning** 🎓
-
-I enjoy solving problems and building things that actually work.  
-If an idea excites me, I try to turn it into code 🚀  
+🧠 AIML Undergraduate  
+💻 Passionate about AI, DSA & Backend Development  
+⚡ Building projects and exploring real-world systems  
+🔥 Love problem-solving & turning ideas into code  
+🍃 Minimalist mindset + clean code enthusiast  
+📩 Reach me: rohankamble0112@gmail.com    
 
 ---
 
