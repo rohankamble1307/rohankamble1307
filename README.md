@@ -70,14 +70,12 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohankamble1307&theme=dark" />
 </p>
+
+---
+
 ## ✨ Thanks for Visiting
 
-<h3 align="center">🟢 TERMINAL STATUS</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=600&lines=Connection+Established...;Access+Granted+✔;Thanks+for+visiting+my+profile...;Logging+out+%F0%9F%94%92" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Keep+Learning+%F0%9F%9A%80;Keep+Building+%F0%9F%94%A5" />
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f2027&height=100&section=footer&text=SESSION%20TERMINATED&fontColor=00FF00&fontSize=20" />
-</p>
+---
