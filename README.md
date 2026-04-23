@@ -10,10 +10,11 @@
 ---
 
 ## 🧠 What I’m Working On
-- Data Structures & Algorithms (C++)
-- Machine Learning & AI fundamentals
-- Python-based projects
-- Exploring backend & real-world systems  
+
+⚙️ Improving DSA skills using C++  
+🧠 Diving into Machine Learning & AI  
+📦 Developing Python-based projects  
+🌐 Exploring backend development with FastAPI  
 
 ---
 
@@ -30,7 +31,6 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=postgresql" />
   <img src="https://img.shields.io/badge/Futuristic%20Tech-Anti--Gravity-purple?style=for-the-badge" />
-</p>
 </p>
 
 ---
