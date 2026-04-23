@@ -17,10 +17,14 @@ If an idea excites me, I try to turn it into code 🚀
 ---
 
 ## 🛠 Tech Stack
-- **Languages:** HTML, CSS, Java Sript, C++, Python, JavaScript  
-- **Core Areas:** DSA, Machine Learning, AI  
-- **Tools:** Git, GitHub, VS Code, Jupyter Notebook, Google Colab etc. 
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode" />
+  <br><br>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSA-orange?style=for-the-badge" />
+</p>
 ---
 
 ## 📌 Projects
