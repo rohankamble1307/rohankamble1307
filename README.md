@@ -62,9 +62,8 @@ If an idea excites me, I try to turn it into code 🚀
 </p>
 
 
-## 💻 System Loading...
+## 📊 3D Contribution Graph
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=22&center=true&vCenter=true&width=600&lines=Initializing+System...;Loading+AI+Models...;Deploying+FastAPI...;Connecting+to+Database...;System+Ready+%F0%9F%9A%80" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohankamble1307&theme=react-dark&area=true&hide_border=true" />
 </p>
-
