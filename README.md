@@ -60,9 +60,9 @@
 🎓 Prepare for internships & placements  
 📈 Continuously improve and learn new technologies   
 
----
-
 📫 Feel free to explore my repositories and connect!
+
+---
 
 
 ## 📊 Contribution Activity
