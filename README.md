@@ -36,14 +36,21 @@
 ---
 
 ## 📌 Projects
-- 📰 **Fake News Detection (NLP)**  
-  Built using TF-IDF and Passive Aggressive Classifier achieving ~99% accuracy  
-- 💳 **Credit Card Fraud Detection**  
-  Developed a machine learning model to identify fraudulent transactions  
-- 🏠 **House Price Prediction**  
-  Implemented regression techniques to estimate housing prices  
 
-- 🚀 More AIML & real-world projects coming soon...
+🔍 **Fake News Detection (NLP)**  
+- Built using TF-IDF & Passive Aggressive Classifier  
+- Achieved ~99% accuracy  
+
+💳 **Credit Card Fraud Detection**  
+- Machine Learning model to detect fraudulent transactions  
+- Focused on real-world financial data  
+
+🏠 **House Price Prediction**  
+- Used regression techniques to estimate housing prices  
+- Applied data preprocessing & feature engineering  
+
+🚀 **More AIML & Real-World Projects Coming Soon...**
+
 ---
 
 ## 🎯 Goals
