@@ -21,7 +21,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode,docker,kubernetes,postgres,Jupyter Notebook" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode,docker,kubernetes,postgres," />
 </p>
 
 <p align="center">
