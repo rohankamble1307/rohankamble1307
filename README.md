@@ -60,7 +60,7 @@
 ## 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohankamble1307&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohankamble1307&theme=dark" />
 </p>
 
 ## ✨ Thanks for Visiting
