@@ -72,6 +72,12 @@
 </p>
 ## ✨ Thanks for Visiting
 
+<h3 align="center">💻 SYSTEM LOG</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Keep+Learning+%F0%9F%9A%80;Keep+Building+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=600&lines=User:+Visitor;Status:+Authenticated;Message:+Thanks+for+visiting+🟢;Goodbye+%F0%9F%91%8B" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=100&section=footer" />
 </p>
