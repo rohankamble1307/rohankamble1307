@@ -70,16 +70,12 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohankamble1307&theme=dark" />
 </p>
+## ✨ Thanks for Visiting
 
-  ## ✨ Thanks for Visiting
-<h3 align="center">
-  ✨ Thanks for visiting my profile ✨
+  <h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Access+Granted...;Welcome+to+my+Profile+💻;Initializing+Systems...;Stay+Curious+👨‍💻" />
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Keep+Coding+💻;Keep+Learning+📚;Keep+Growing+🚀" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f2027&height=120&section=footer&text=Thanks%20For%20Visiting%20🖤&fontColor=00FF00&fontSize=20" />
 </p>
