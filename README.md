@@ -19,13 +19,19 @@ If an idea excites me, I try to turn it into code 🚀
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode" />
-  <br><br>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DSA-orange?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode,docker,linux,postgres" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DSA-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=postgresql" />
+</p>
+
 ---
+
 
 ## 📌 Projects
 - 📰 **Fake News Detection (NLP)**  
