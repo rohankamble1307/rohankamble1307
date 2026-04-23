@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=postgresql" />
   <img src="https://img.shields.io/badge/Futuristic%20Tech-Anti--Gravity-blue?style=for-the-badge" />
 </p>
 
