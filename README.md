@@ -55,15 +55,15 @@ If an idea excites me, I try to turn it into code 🚀
 
 📫 Feel free to explore my repositories and connect!
 
-## ✨ Thanks for Visiting
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Keep+Learning+%F0%9F%9A%80;Keep+Building+%F0%9F%94%A5" />
-</p>
-
 
 ## 📊 3D Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohankamble1307&theme=react-dark&area=true&hide_border=true" />
+</p>
+
+## ✨ Thanks for Visiting
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Keep+Learning+%F0%9F%9A%80;Keep+Building+%F0%9F%94%A5" />
 </p>
