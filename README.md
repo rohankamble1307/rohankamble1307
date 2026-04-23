@@ -71,8 +71,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohankamble1307&theme=dark" />
 </p>
 
-## ✨ Thanks for Visiting
+  ## ✨ Thanks for Visiting
+<h3 align="center">
+  ✨ Thanks for visiting my profile ✨
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Keep+Learning+%F0%9F%9A%80;Keep+Building+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Keep+Coding+💻;Keep+Learning+📚;Keep+Growing+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer" />
 </p>
