@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=postgresql" />
   <img src="https://img.shields.io/badge/Futuristic%20Tech-Anti--Gravity-purple?style=for-the-badge" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50"/>
 </p>
 
 ---
