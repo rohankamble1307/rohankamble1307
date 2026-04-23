@@ -35,7 +35,6 @@
 
 ---
 
-
 ## 📌 Projects
 - 📰 **Fake News Detection (NLP)**  
   Built using TF-IDF and Passive Aggressive Classifier achieving ~99% accuracy  
@@ -48,9 +47,11 @@
 ---
 
 ## 🎯 Goals
-- Strengthen problem-solving skills  
-- Build impactful real-world projects  
-- Prepare for internships & placements  
+
+🧩 Strengthen problem-solving skills  
+🏗️ Build impactful real-world projects  
+🎓 Prepare for internships & placements  
+📈 Continuously improve and learn new technologies   
 
 ---
 
