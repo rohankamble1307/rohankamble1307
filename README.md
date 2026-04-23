@@ -22,6 +22,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode,docker,kubernetes,postgres," />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" height="48" />
 </p>
 
 <p align="center">
