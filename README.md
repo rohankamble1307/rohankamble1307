@@ -19,7 +19,7 @@ If an idea excites me, I try to turn it into code 🚀
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode,docker,linux,postgres" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode,docker,kubernetes,postgres" />
 </p>
 
 <p align="center">
