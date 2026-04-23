@@ -73,9 +73,13 @@
 ## ✨ Thanks for Visiting
 
   <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Access+Granted...;Welcome+to+my+Profile+💻;Initializing+Systems...;Stay+Curious+👨‍💻" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=System+Online...;Rohan+Kamble+Initializing...;AI+%7C+DSA+%7C+Backend;Hack+The+Limits+🚀" />
 </h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f2027&height=120&section=footer&text=Thanks%20For%20Visiting%20🖤&fontColor=00FF00&fontSize=20" />
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=100&section=footer" />
 </p>
