@@ -68,10 +68,20 @@
 ## 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohankamble1307&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rohankamble1307&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohankamble1307&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohankamble1307&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
+
+
 
 ## ✨ Thanks for Visiting
 <p align="center">
