@@ -64,20 +64,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohankamble1307&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohankamble1307&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohankamble1307&theme=tokyo-night&hide_border=true" />
-</p>
-
 ## ✨ Thanks for Visiting
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Keep+Learning+%F0%9F%9A%80;Keep+Building+%F0%9F%94%A5" />
