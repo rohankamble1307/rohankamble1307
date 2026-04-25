@@ -63,6 +63,21 @@
 📫 Feel free to explore my repositories and connect!
 
 ---
+## 📊 GitHub Contributions
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohankamble1307&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohankamble1307&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rohankamble1307&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohankamble1307&theme=tokyonight&utcOffset=5.5" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rohankamble1307&theme=tokyonight&hide_border=true" />
+</p>
+---
 
 ## ✨ Thanks for Visiting
 <p align="center">
