@@ -18,10 +18,10 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode,docker,kubernetes,postgres," />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,bash,linux,git,github,vscode,docker,kubernetes,aws,postgres,mysql,mongodb,django,selenium,tensorflow,pytorch,opencv,flask" />
 </p>
 
 <p align="center">
