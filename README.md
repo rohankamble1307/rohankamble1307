@@ -21,7 +21,7 @@
 ## 🚀 Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,git,github,vscode,docker,kubernetes,postgres,mysql,mongodb,django,tensorflow,pytorch,opencv,flask,pycharm,azure,aws," />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,python,django,mysql,git,github,vscode,docker,kubernetes,postgres,mongodb,tensorflow,pytorch,opencv,flask,pycharm,azure,aws," />
 </p>
 
 <p align="center">
